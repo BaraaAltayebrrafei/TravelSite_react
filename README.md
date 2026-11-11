@@ -2,9 +2,6 @@
 
 A responsive multi-page travel website built with React and React Router.
 
-
-![Home page](screenshots/home.png)
-
 ## Features
 - Multi-page navigation with React Router (Home, Services, Products, Sign Up)
 - Responsive navbar
